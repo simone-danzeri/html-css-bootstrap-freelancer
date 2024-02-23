@@ -34,3 +34,15 @@
 .ms-btn-round{
     border-radius: 50%;
 }
+
+/*---------------
+    IMAGES
+---------------*/
+
+img{
+    max-width: 100%;
+}
+
+/* .ms-portfolio-img{
+    max-width: 70%;
+} */
