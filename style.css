@@ -10,10 +10,27 @@
     background-color: #1abc9c;
 }
 
+.ms-bg-lightblue{
+    background-color: #3a546d;
+}
+
+/*---------------
+    TEXT COLORS
+---------------*/
+
+.ms-text-color-green{
+    color: #1abc9c;
+    text-decoration: none;
+}
+
 /*---------------
     BUTTONS
 ---------------*/
 
 .ms-btn-send{
     background-color: #1abc9c;
+}
+
+.ms-btn-round{
+    border-radius: 50%;
 }
