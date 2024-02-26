@@ -110,8 +110,11 @@ img{
     opacity: 1;
 }
 
-.navbar-nav .text-white:hover{
-    color: #1abc9c;
+.navbar-nav a:hover{
+    color: #1abc9c !important;
 }
 
+.ms-btn-send:hover{
+    background-color: #1abc9c !important;
+}
 
