@@ -73,3 +73,13 @@ img{
     width: 200px;
     border-radius: 20px;
 }
+
+/*---------------
+    FORM
+---------------*/
+
+.ms-border-style{
+    border: none;
+    border-bottom: 1px #cccccc solid;
+    border-radius: 0;
+}
