@@ -110,7 +110,7 @@ img{
     opacity: 1;
 }
 
-.navbar-nav .nav-link:hover{
+.navbar-nav .text-white:hover{
     color: #1abc9c;
 }
 
