@@ -83,3 +83,35 @@ img{
     border-bottom: 1px #cccccc solid;
     border-radius: 0;
 }
+
+/*---------------
+    HOVER
+---------------*/
+
+.ms-portfolio-img img{
+    display: block;
+}
+
+.ms-portfolio-img-hover{
+    display: flex;
+    position: absolute;
+    opacity: 0;
+    background-color: rgba(26, 188, 156, 0.5);
+    height: 100%;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    overflow: hidden;
+
+}
+
+.ms-portfolio-img-hover:hover{
+    opacity: 1;
+}
+
+.navbar-nav a:hover{
+    color: #1abc9c;
+}
+
+
