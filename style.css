@@ -14,6 +14,10 @@
     background-color: #3a546d;
 }
 
+.ms-bg-white{
+    background-color: #fff;
+}
+
 /*---------------
     TEXT COLORS
 ---------------*/
@@ -21,6 +25,10 @@
 .ms-text-color-green{
     color: #1abc9c;
     text-decoration: none;
+}
+
+.ms-text-color-blue{
+    color: #2c3e50;
 }
 
 .ms-socials-size{
@@ -54,4 +62,14 @@ img{
 
 .ms-avatar-img{
     max-width: 30%;
+}
+
+/*---------------
+    STAR
+---------------*/
+
+.ms-line{
+    height: 4px;
+    width: 200px;
+    border-radius: 20px;
 }
